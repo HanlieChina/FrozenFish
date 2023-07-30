@@ -1,0 +1,10 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "ARR"
+[[mods]]
+modId = "frozenfish"
+version = "${file.jarVersion}"
+displayName = "FrozenFish"
+authors = "Tapio"
+credits = "SlowWittedFish for inspiration"
+description = "A frozen fish is your handiest melee weapon in the freezing cold!"
